@@ -1,5 +1,5 @@
 import React from "react";
-import GlobalSvgSelector from "../../../../assets/images/icons/global/GlobalSvgSelector";
+import GlobalSvgSelector from "../../../../assets/icons/global/GlobalSvgSelector";
 import { Day } from "./Days";
 import s from "./Days.module.scss";
 
